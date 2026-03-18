@@ -1,0 +1,8 @@
+Phase 1:
+1. Go step by step and create a pacman game in Python (preferably using pygame). Focus primarily on game logic and having readable code, this project will be passed on to others.
+2. the game seems to be really struggling to close, vscode and python seem to be crashing or frozen
+3. the game still closes very poorly, when i press the x, it freezes and becomes a zombie process
+4. its still not closing properly, i dont wanna mess with my client side settings because other people will have to work on this
+5. yes, add this AI to the ghosts and also add more ghosts to match the original game
+6. yes now add power pellets
+7. 
